@@ -71,15 +71,6 @@ I’m currently exploring **VLSI design, embedded systems, AI/ML**, and **electr
 
 ---
 
-## 🐍 GitHub Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/BGourav05/BGourav05/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
-
----
-
 ## 🤝 Let’s Connect
 
 📧 **Email:** [bihargaurav56@gmail.com](mailto:bihargaurav56@gmail.com)  

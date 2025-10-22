@@ -79,4 +79,4 @@ I’m currently exploring **VLSI design, embedded systems, AI/ML**, and **electr
 
 ---
 
-⭐ *“Innovation is intelligence having fun.” – Albert Einstein*
+⭐ **“Innovation is intelligence having fun.” – Albert Einstein**

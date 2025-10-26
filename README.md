@@ -15,7 +15,22 @@ I’m an **Electrical Engineering student** passionate about **innovation**, **A
 - 🥇 **Gold Medalist** — AI/ML Olympiad (State 1 & 2)  
 - 🛰️ **Top 18 Nationwide** — ATL Space Challenge (*Recognized by ISRO*)  
 - 🏆 **1st Rank** — All-India School-Level Tech Competition  
+## 🧠 IEEE Xtreme 19.0 Achievement
 
+🏆 **Solo Participant** — Competed individually in IEEE Xtreme 19.0, the 24-hour global coding competition organized by IEEE.  
+
+- 🌍 **Global Rank:** 2626 / 8169  
+- 💯 **Score:** 754.95  
+- 🕐 Duration: 24 hours (25–26 Oct 2025)  
+- ⚡ **Category:** Algorithmic & problem-solving challenges  
+
+> _Proud to represent my skills and endurance in a world-class programming marathon._  
+> _Organized by IEEE, participated among 8000+ global teams._
+
+![IEEE Xtreme](https://img.shields.io/badge/IEEE--Xtreme-19.0-blue?logo=ieee)
+![Rank](https://img.shields.io/badge/Rank-2626%2F8169-success)
+![Score](https://img.shields.io/badge/Score-754.95-brightgreen)
+![Type](https://img.shields.io/badge/Participation-Solo-yellow) 
 > 💬 *Driven by curiosity and creativity to explore the intersection of embedded systems, chip design, and intelligent computing.*
 
 ---

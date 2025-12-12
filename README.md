@@ -58,23 +58,6 @@ I’m an **Electrical Engineering student** passionate about **innovation**, **A
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BGourav05&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BGourav05&theme=tokyonight&hide_border=false" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGourav05&layout=compact&theme=tokyonight&hide_border=false" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BGourav05&theme=tokyonight&no-frame=false&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
